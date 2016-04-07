@@ -26,7 +26,7 @@
 * Nothing here yet!
 
 ### <a name="misc"></a> Miscellaneous
-* [Creating a Page Jump in Markdown]()
+* [Creating a Page Jump in Markdown](misc/page-jump.md)
 
 ### <a name="rails"></a> Rails
 * Nothing here yet!
