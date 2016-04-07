@@ -8,6 +8,8 @@
 
 [JavaScript](#js)
 
+[Miscellaneous](#misc)
+
 [Rails](#rails)
 
 [Ruby](#ruby)
@@ -22,6 +24,9 @@
 
 ### <a name="js"></a> JavaScript
 * Nothing here yet!
+
+### <a name="misc"></a> Miscellaneous
+* [Creating a Page Jump in Markdown]()
 
 ### <a name="rails"></a> Rails
 * Nothing here yet!

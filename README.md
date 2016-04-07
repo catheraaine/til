@@ -3,7 +3,7 @@
 
 TIL is a gathering of quick descriptions of things that, well, that I learned. Today.
 
-[Check out a nifty list of posts, here.]()
+[Check out a nifty list of posts, here.](https://github.com/catheraaine/til/blob/master/contents.md)
 
 
 ### But why?
