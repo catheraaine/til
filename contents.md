@@ -17,7 +17,7 @@
 
 
 ### <a name="css"></a> HTML, CSS, and Sass
-* Nothing here yet!
+* [Storing Colors in Variables with Sass](css/sass-vars.md)
 
 ### <a name="git"></a> Git, Github, and Command Line
 * Nothing here yet!

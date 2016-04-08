@@ -18,6 +18,6 @@ Then, add an empty anchor tag in front of the content you would like linked to. 
 #### <a name="jump"></a> Jump to here!
 ```
 
-Check out my [contents file](https://github.com/catheraaine/til/blob/master/contents.md) for live examples, or click the subheading at the top of this page.
+Check out my [contents file](../contents.md) for live examples, or click the subheading at the top of this page.
 
 #### <a name="jump"></a> Jump to here!
