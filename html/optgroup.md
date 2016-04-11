@@ -33,17 +33,4 @@ A better option is to group the countries into continents, which increases reada
 ```
 Here's the select box in action, check out the neat nesting labels provided by `optgroup`:
 
-<form>
-  <select>
-    <optgroup label="Asia">
-      <option>Afghanistan</option>
-      <option>China</option>
-      <option>India</option>
-    </optgroup>
-    <optgroup label="Europe">
-    <option>Great Britain</option>
-    <option>Iceland</option>
-    <option>Russia</option>
-    </optgroup>
-  </select>
-</form>
+![DropDown Box](http://res.cloudinary.com/catheraaine/image/upload/v1460404725/Screen_Shot_2016-04-11_at_3.57.53_PM_brmxk9.png)
