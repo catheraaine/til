@@ -1,8 +1,6 @@
 ## Forms: Option Groups
 
-HTML forms may be highly common, but I am still learning how to use them.
-
-Today, I created a `select` list that had dozens of country names for options, all in one long list.
+For my [RISK Legacy App](https://github.com/catheraaine/risk-legacy), I needed to create a `select` item that had dozens of country names for options, all in one long list. Here's how that looks:
 
 ```html
   <select>
@@ -15,7 +13,7 @@ Today, I created a `select` list that had dozens of country names for options, a
   </select>
 
 ```
-A better option is to group the countries into continents, which increases readability within the drop down menu. This is done with the `<optgroup>` tag.
+A better way is to group the countries into continents, which increases readability within the drop down menu. This is done with the `<optgroup>` tag.
 
 ```html
   <select>
