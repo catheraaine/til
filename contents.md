@@ -2,9 +2,11 @@
 
 ## Categories
 
-[HTML, CSS, and Sass](#css)
+[CSS, and Sass](#css)
 
 [Git, Github, and Command Line](#git)
+
+[HTML](#html)
 
 [JavaScript](#js)
 
@@ -21,6 +23,10 @@
 
 ### <a name="git"></a> Git, Github, and Command Line
 * Nothing here yet!
+
+### <a name="html"></a> HTML
+* [Forms: Option Groups](html/optgroup.md)
+
 
 ### <a name="js"></a> JavaScript
 * Nothing here yet!
