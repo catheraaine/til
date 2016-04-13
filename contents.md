@@ -29,7 +29,7 @@
 
 
 ### <a name="js"></a> JavaScript
-* Nothing here yet!
+* [ForEach Statement](javascript/foreach.md)
 
 ### <a name="misc"></a> Miscellaneous
 * [Creating a Page Jump in Markdown](misc/page-jump.md)
