@@ -20,6 +20,7 @@
 
 ### <a name="css"></a> CSS, and Sass
 * [Storing Colors in Variables with Sass](css/sass-vars.md)
+* [Sass: The Import(ant) Rule](css/import.md)
 
 ### <a name="git"></a> Git, Github, and Command Line
 * Nothing here yet!
